@@ -6,7 +6,7 @@ A personal portfolio website built with pure HTML, CSS, and JavaScript. Features
 
 ## ✨ Live Demo
 
-🔗 **[devipranavi.github.io](🔗https://devipranavi.github.io/index.html)**
+🔗 **[Click Here to View Portfolio](https://devipranavi.github.io/index.html)**
 
 ---
 
@@ -42,7 +42,6 @@ A personal portfolio website built with pure HTML, CSS, and JavaScript. Features
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-
 
 ## 📬 Contact
 
