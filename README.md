@@ -6,7 +6,7 @@ A personal portfolio website built with pure HTML, CSS, and JavaScript. Features
 
 ## ✨ Live Demo
 
-🔗 **[devipranavi.github.io](https://devipranavi.github.io)**
+🔗 **[devipranavi.github.io](🔗https://devipranavi.github.io/index.html)**
 
 ---
 
@@ -43,29 +43,6 @@ A personal portfolio website built with pure HTML, CSS, and JavaScript. Features
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone the repository
-```bash
-git clone https://github.com/devipranavi/devipranavi.github.io.git
-```
-2. Open the folder
-```bash
-cd devipranavi.github.io
-```
-3. Open `index.html` in your browser — done! ✅
-
----
-
-## 📁 Project Structure
-
-```
-devipranavi.github.io/
-│
-└── index.html        # Main portfolio file
-```
-
----
 
 ## 📬 Contact
 
